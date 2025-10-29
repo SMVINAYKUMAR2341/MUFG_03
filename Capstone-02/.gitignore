@@ -13,7 +13,7 @@ build/
 # Data
 *.csv
 !heart_disease_dataset.csv
-*.pkl
+# *.pkl  # Uncommented for Vercel deployment - models need to be tracked
 
 # Visualizations
 *.png
