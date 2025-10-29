@@ -375,4 +375,3 @@ For questions or feedback about this project, please open an issue in the reposi
 
 ---
 
-**Built with ❤️ for Data Science Education**
