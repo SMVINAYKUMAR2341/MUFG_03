@@ -1,8 +1,4 @@
-"""
-Disease PredictionIQ Web Application
-Flask backend with REST API endpoints
-Author: Jay Prakash kumar
-"""
+
 
 from flask import Flask, render_template, request, jsonify
 import pickle
@@ -412,3 +408,4 @@ if __name__ == '__main__':
     print("=" * 60 + "\n")
     
     app.run(debug=not is_production, host='0.0.0.0', port=port)
+
